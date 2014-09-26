@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>11483CE3-B0A2-48D6-8A19-EA0BF3C6493C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EasyD</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EDE903CF-E2EB-4CDB-BF83-EB2FD77B140C</key>
+		<string>ssh://github.com/gg294635/EasyDay-1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EasyD.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EDE903CF-E2EB-4CDB-BF83-EB2FD77B140C</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/gg294635/EasyDay-1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EDE903CF-E2EB-4CDB-BF83-EB2FD77B140C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EDE903CF-E2EB-4CDB-BF83-EB2FD77B140C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EasyDay-1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
