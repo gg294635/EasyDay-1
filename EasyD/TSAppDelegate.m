@@ -16,6 +16,9 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
 
+    
+    NSLog(@"123123");
+    
     if ([[NSUserDefaults standardUserDefaults] boolForKey:@"isFirst"]){
         TSMainViewController *mainVC = [[TSMainViewController alloc] init];
         UINavigationController *naviController = [[UINavigationController alloc] initWithRootViewController:mainVC];
